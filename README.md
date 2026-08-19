@@ -50,27 +50,25 @@ mindset:
       <a href="https://github.com/AdeemAkhtar/AWS_Multi-VPC_Architecture_with_VPC_Peering_Using_Terraform">
         <img src="https://github.com/AdeemAkhtar/AWS_Multi-VPC_Architecture_with_VPC_Peering_Using_Terraform/blob/main/ScreenShots/0_Architecture.png"
              alt="AWS_Multi-VPC_Architecture_with_VPC_Peering_Using_Terraform"
-             style="width:100%; height:200px; object-fit:cover;"/>
+             style="width:100%; height:100px; object-fit:cover;"/>
       </a>
       <br/>
       <b>AWS Multi VPC Architecture with VPC Peering Using Terraform</b><br/>
-      <sub>Implementation of two VPCs peering together in different regions using Terraform</sub><br/>
       🔗 <a href="https://github.com/AdeemAkhtar/AWS_Multi-VPC_Architecture_with_VPC_Peering_Using_Terraform">Repo</a>
       <br/>
       <sub>Tags: Terraform, AWS, VPC, Subnets, EC2, VPC Peering, Route Tables</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/maximus-soares/Projects/blob/main/CICD%20Pipeline/Set%20Up%20a%20Web%20App%20in%20the%20Cloud.md">
-        <img src="https://learn.nextwork.org/projects/static/aws-devops-vscode/architecture-complete.png"
-             alt="CI/CD Pipeline Project"
-             style="width:100%; height:200px; object-fit:cover;"/>
+      <a href="https://github.com/AdeemAkhtar/Hosting_Static_Website_On_S3_Using_Terraform">
+        <img src="https://github.com/AdeemAkhtar/Hosting_Static_Website_On_S3_Using_Terraform/blob/main/screenshots/architecture2.png"
+             alt="Hosting Static Website On S3 Using Terraform"
+             style="width:100%; height:100px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>Cloud CI/CD Pipeline</b><br/>
-      <sub>Automated deployment of a web app using GitHub Actions and AWS ECS.</sub><br/>
-      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/CICD%20Pipeline/Set%20Up%20a%20Web%20App%20in%20the%20Cloud.md">Repo</a>
+      <b>Hosting Static Website On S3 Using Terraform</b><br/>
+      🔗 <a href="https://github.com/AdeemAkhtar/Hosting_Static_Website_On_S3_Using_Terraform">Repo</a>
       <br/>
-      <sub>Tags: DevOps, Docker, GitHub Actions</sub>
+      <sub>Tags: Terraform, AWS, S3, CloudFront</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/maximus-soares/Projects/blob/main/Networking/1%20Build%20a%20VPC.md">
@@ -128,3 +126,67 @@ mindset:
         
 </p>
 
+
+<table>
+<tr>
+<td width="33%">
+
+<h2 align="center">AWS Multi VPC Architecture with VPC Peering Using Terraform</h2>
+<img src="https://github.com/AdeemAkhtar/AWS_Multi-VPC_Architecture_with_VPC_Peering_Using_Terraform/blob/main/ScreenShots/0_Architecture.png"
+             alt="AWS_Multi-VPC_Architecture_with_VPC_Peering_Using_Terraform"
+             style="width:100%; height:200px; object-fit:cover;"/>
+             
+**Terraform · AWS · VPC · EC2**
+
+Production-style AWS infrastructure
+deployed using Infrastructure as Code.
+
+`AWS` `Terraform` `VPC` `EC2` `VPC-Peering` `Route Tables`
+
+<a href="https://github.com/AdeemAkhtar/AWS_Multi-VPC_Architecture_with_VPC_Peering_Using_Terraform">
+<img src="https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="33%">
+
+<h2 align="center">AWS Multi VPC Architecture with VPC Peering Using Terraform</h2>
+<img src="https://github.com/AdeemAkhtar/AWS_Multi-VPC_Architecture_with_VPC_Peering_Using_Terraform/blob/main/ScreenShots/0_Architecture.png"
+             alt="AWS_Multi-VPC_Architecture_with_VPC_Peering_Using_Terraform"
+             style="width:100%; height:200px; object-fit:cover;"/>
+             
+**Terraform · AWS · VPC · EC2**
+
+Production-style AWS infrastructure
+deployed using Infrastructure as Code.
+
+`AWS` `Terraform` `VPC` `EC2` `VPC-Peering` `Route Tables`
+
+<a href="https://github.com/AdeemAkhtar/AWS_Multi-VPC_Architecture_with_VPC_Peering_Using_Terraform">
+<img src="https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="33%">
+
+<h2 align="center">AWS Multi VPC Architecture with VPC Peering Using Terraform</h2>
+<img src="https://github.com/AdeemAkhtar/AWS_Multi-VPC_Architecture_with_VPC_Peering_Using_Terraform/blob/main/ScreenShots/0_Architecture.png"
+             alt="AWS_Multi-VPC_Architecture_with_VPC_Peering_Using_Terraform"
+             style="width:100%; height:200px; object-fit:cover;"/>
+             
+**Terraform · AWS · VPC · EC2**
+
+Production-style AWS infrastructure
+deployed using Infrastructure as Code.
+
+`AWS` `Terraform` `VPC` `EC2` `VPC-Peering` `Route Tables`
+
+<a href="https://github.com/AdeemAkhtar/AWS_Multi-VPC_Architecture_with_VPC_Peering_Using_Terraform">
+<img src="https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
