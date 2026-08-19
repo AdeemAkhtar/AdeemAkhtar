@@ -83,7 +83,7 @@ deployed using Infrastructure as Code.
 <td width="33%">
 
 <h2 align="center">AWS Multi VPC Architecture with VPC Peering Using Terraform</h2>
-<img src="https://github.com/AdeemAkhtar/AWS_Multi-VPC_Architecture_with_VPC_Peering_Using_Terraform/blob/main/ScreenShots/0_Architecture.png"
+<img src="https://github.com/AdeemAkhtar/Hosting_Static_Website_On_S3_Using_Terraform/blob/main/screenshots/architecture2.png"
              alt="AWS_Multi-VPC_Architecture_with_VPC_Peering_Using_Terraform"
              style="width:100%; height:200px; object-fit:cover;"/>
              
@@ -94,7 +94,7 @@ deployed using Infrastructure as Code.
 
 `AWS` `Terraform` `VPC` `EC2` `VPC-Peering` `Route Tables`
 
-<a href="https://github.com/AdeemAkhtar/AWS_Multi-VPC_Architecture_with_VPC_Peering_Using_Terraform">
+<a href="https://github.com/AdeemAkhtar/Hosting_Static_Website_On_S3_Using_Terraform">
 <img src="https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
