@@ -3,15 +3,11 @@
 
 <div align="center">
 
-# ☁️ Adeem Akhtar
+# 👋 Hello! I am Adeem
 
 ### `Cloud & DevOps Engineer`
 
-**AWS** · **Terraform** · **Docker** · **Linux** · **CI/CD** · **Infrastructure as Code**
-
-<br>
-
-I'm a **Cloud & DevOps Engineer** passionate about designing scalable cloud infrastructure, automating deployments, and turning complex infrastructure into simple, repeatable systems. I'm particularly interested in cloud architecture, system design, network architecture, infrastructure automation, scalability, reliability, and cloud-native technologies, while continuously expanding my knowledge of modern engineering practices..
+**Building reliable infrastructure. Automating everything. Learning continuously.**
 
 <br>
 
@@ -21,15 +17,37 @@ I'm a **Cloud & DevOps Engineer** passionate about designing scalable cloud infr
 <img src="https://img.shields.io/badge/Linux-Systems-161B22?style=for-the-badge&logo=linux&logoColor=FCC624"/>
 <img src="https://img.shields.io/badge/CI%2FCD-Automation-161B22?style=for-the-badge&logo=githubactions&logoColor=2088FF"/>
 
-<br><br>
+<br>
+
+<div>
+
+### 🌐 Connect With Me
+
+<br>
 
 <a href="https://github.com/AdeemAkhtar">
-<img src="https://img.shields.io/badge/GitHub-AdeemAkhtar-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+  <img 
+    src="https://img.shields.io/badge/GitHub-Explore%20My%20Projects-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=161B22"
+    height="45"
+  />
 </a>
 
 <a href="https://www.linkedin.com/in/adeemakhtar/">
-<img src="https://img.shields.io/badge/LinkedIn-Adeem_Akhtar-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  <img 
+    src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=161B22"
+    height="45"
+  />
 </a>
+
+<img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/demo/typing.gif" width="40"/>
+
+<br>
+
+<sub>
+💬 Open to Cloud & DevOps discussions · ☁️ Cloud Architecture · 🚀 Infrastructure Automation
+</sub>
+
+</div>
 
 </div>
 
@@ -37,31 +55,9 @@ I'm a **Cloud & DevOps Engineer** passionate about designing scalable cloud infr
 
 ## 🧑‍💻 About Me
 
-```yaml
+I'm a Cloud & DevOps Engineer passionate about designing scalable cloud infrastructure, automating deployments, and turning complex infrastructure into simple, repeatable systems. I'm particularly interested in cloud architecture, system design, network architecture, infrastructure automation, scalability, reliability, and cloud-native technologies, while continuously expanding my knowledge of modern engineering practices.
 
-focus:
-  - Cloud Infrastructure
-  - Infrastructure as Code
-  - CI/CD Automation
-  - Containerisation
-  - Cloud Security
-  - Monitoring & Observability
-
-currently_learning:
-  - AWS Solutions Architecture
-  - Kubernetes
-  - Advanced Terraform
-  - DevSecOps
-  - Cloud-Native Architecture
-
-mindset:
-  - Automate repetitive work
-  - Build scalable systems
-  - Infrastructure should be reproducible
-  - Learn → Build → Break → Fix → Improve
-```
-
-## Projects
+## 🚀 My Featured Projects
 <table>
 <tr>
 <td width="33%">
