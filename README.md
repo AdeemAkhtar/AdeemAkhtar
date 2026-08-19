@@ -1,84 +1,99 @@
-# 👋 Hi, I'm Adeem Akhtar
+# Hi, I'm Adeem Akhtar
 
-### ☁️ Cloud Engineer in Progress | AWS | Terraform | DevOps | Python
+### Cloud Engineer | AWS | Terraform | DevOps
 
-Welcome to my GitHub! I'm a technology professional transitioning toward **Cloud Engineering and DevOps**, with a background in software development, computer science education, and hands-on cloud infrastructure projects.
+I build and document practical cloud infrastructure using **AWS, Terraform, Docker, Linux, and Python**.
 
-I enjoy **learning by building** — designing AWS architectures, automating infrastructure with Terraform, containerising applications with Docker, and documenting everything along the way.
-
----
-
-## 🚀 About Me
-
-- ☁️ Building practical projects with **Amazon Web Services (AWS)**
-- 🏗️ Developing Infrastructure as Code using **Terraform**
-- 🐳 Learning and implementing **Docker & containerisation**
-- 🐧 Working with **Linux and Bash scripting**
-- 🔄 Exploring **DevOps and CI/CD practices**
-- 🐍 Experienced with **Python development**
-- 🌐 Background in web and backend technologies
-- 📚 Currently preparing toward **AWS Solutions Architect Associate**
-- 🎯 Goal: Build a career as a **Cloud / DevOps Engineer**
+My current focus is on **Cloud Engineering, Infrastructure as Code, automation, networking, and DevOps practices**.
 
 ---
 
-## ☁️ AWS Skills
+## About Me
 
-| Category | Technologies |
-|---|---|
-| Compute | EC2, Lambda |
-| Storage | S3, EBS, EFS |
-| Networking | VPC, Subnets, Route Tables, Internet Gateway, NAT Gateway |
-| Security | IAM, Security Groups |
-| CDN | CloudFront |
-| Monitoring | CloudWatch, CloudTrail |
-| DNS | Route 53 |
-| Infrastructure | Terraform, CloudFormation |
-| DevOps | Git, GitHub, CI/CD |
-| Containers | Docker, Docker Compose |
+I'm a technology professional with a background in software development and computer science education, currently focused on building my career in **Cloud Engineering and DevOps**.
 
----
+I learn by building real-world projects — from AWS networking and compute infrastructure to automated deployments and containerised applications.
 
-## 🏗️ Featured Projects
+**Currently focused on:**
 
-### ☁️ AWS Infrastructure with Terraform
-
-Building production-style AWS infrastructure using **Terraform**, following Infrastructure as Code principles.
-
-**Focus areas:**
-
-- VPC architecture
-- Public and private subnets
-- Route tables
-- Internet Gateway
-- NAT Gateway
-- EC2
-- IAM
-- Security Groups
-- Terraform modules
-- Variables and outputs
+- AWS Cloud Architecture
+- Terraform & Infrastructure as Code
+- Cloud Networking & Security
+- Docker & Containerisation
+- Linux & Bash
+- CI/CD & Automation
+- Python
+- DevOps practices
 
 ---
 
-### 🌐 AWS Static Website Hosting
+## Tech Stack
 
-Designed a secure and scalable static website hosting solution using:
+**Cloud**
 
-**Amazon S3 + CloudFront + Terraform**
+`AWS` `EC2` `S3` `VPC` `IAM` `CloudFront` `Lambda` `CloudWatch` `CloudTrail`
 
-The project demonstrates how infrastructure can be provisioned and managed consistently through Infrastructure as Code.
+**Infrastructure**
+
+`Terraform` `CloudFormation` `Infrastructure as Code`
+
+**DevOps**
+
+`Docker` `Docker Compose` `Git` `GitHub` `CI/CD`
+
+**Systems**
+
+`Linux` `Bash` `SSH` `AWS CLI`
+
+**Development**
+
+`Python` `Java` `JavaScript` `Django` `React` `PostgreSQL` `SQL`
 
 ---
 
-### 🐳 Full-Stack Docker Application
+## Featured Projects
 
-Exploring containerised application architecture using:
+### AWS Infrastructure with Terraform
+
+Production-style AWS infrastructure provisioned and managed using Terraform.
+
+**Technologies:** AWS · Terraform · VPC · EC2 · IAM · Networking
+
+→ Explore my repositories for the architecture, Terraform configuration and implementation documentation.
+
+---
+
+### AWS Static Website Hosting
+
+A secure and scalable static website hosting architecture using AWS services and Infrastructure as Code.
+
+**Technologies:** S3 · CloudFront · Terraform · AWS
+
+---
+
+### Full-Stack Docker Application
+
+Containerised application architecture using separate frontend, backend and database services.
+
+**Technologies:** Docker · React · Django · PostgreSQL · Nginx
+
+---
+
+## Cloud Engineering Journey
 
 ```text
-React
-   ↓
-Nginx
-   ↓
-Django REST API
-   ↓
-PostgreSQL
+Software Development
+        ↓
+Linux & Git
+        ↓
+AWS Fundamentals
+        ↓
+Cloud Networking & Security
+        ↓
+Terraform / IaC
+        ↓
+Docker & Containers
+        ↓
+CI/CD & Automation
+        ↓
+Cloud Engineering
