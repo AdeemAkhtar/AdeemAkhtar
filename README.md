@@ -1,19 +1,37 @@
-# ☁️ Hey, I'm **Adeem Akhtar**
 
-### `Cloud & DevOps Engineer` · `AWS` · `Terraform` · `Docker` · `Linux` · `CI/CD`
 
-> **Building reliable infrastructure. Automating everything. Learning continuously.**
 
-I'm a **Cloud & DevOps Engineer** passionate about designing scalable cloud infrastructure, automating deployments, and turning complex infrastructure into simple, repeatable systems.
+<div align="center">
 
-I enjoy working with **AWS, Terraform, Docker, Linux, Git, CI/CD pipelines, and Infrastructure as Code** while continuously exploring modern cloud-native technologies.
+# ☁️ Adeem Akhtar
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Cloud-AWS-orange?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/IaC-Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Containers-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
+### `Cloud & DevOps Engineer`
+
+**AWS** · **Terraform** · **Docker** · **Linux** · **CI/CD** · **Infrastructure as Code**
+
+<br>
+
+I'm a **Cloud & DevOps Engineer** passionate about designing scalable cloud infrastructure, automating deployments, and turning complex infrastructure into simple, repeatable systems. I'm particularly interested in cloud architecture, system design, network architecture, infrastructure automation, scalability, reliability, and cloud-native technologies, while continuously expanding my knowledge of modern engineering practices..
+
+<br>
+
+<img src="https://img.shields.io/badge/AWS-Cloud-161B22?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/Terraform-IaC-161B22?style=for-the-badge&logo=terraform&logoColor=844FBA"/>
+<img src="https://img.shields.io/badge/Docker-Containers-161B22?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/Linux-Systems-161B22?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+<img src="https://img.shields.io/badge/CI%2FCD-Automation-161B22?style=for-the-badge&logo=githubactions&logoColor=2088FF"/>
+
+<br><br>
+
+<a href="https://github.com/AdeemAkhtar">
+<img src="https://img.shields.io/badge/GitHub-AdeemAkhtar-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/adeemakhtar/">
+<img src="https://img.shields.io/badge/LinkedIn-Adeem_Akhtar-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
+</div>
 
 ---
 
