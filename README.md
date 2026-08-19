@@ -108,7 +108,7 @@ Fully provisioned and managed as code with Terraform
 
 AWS serverless event-driven architecture for scalable e-commerce order processing.
 
-`AWS` `API Gateway` `Lambda` `DynamoDB` `DynamoDB Stream` `Amazon SNS` `Amazon SQS` 'CloudWatch'
+`AWS` `API Gateway` `Lambda` `DynamoDB` `DynamoDB Stream` `Amazon SNS` `Amazon SQS` `CloudWatch`
 
 <a href="https://github.com/AdeemAkhtar/aws-serverless-event-driven-architecture-for-ECommerce">
 <img src="https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white"/>
