@@ -60,7 +60,7 @@ I'm a Cloud & DevOps Engineer passionate about designing scalable cloud infrastr
 ## 🚀 My Featured Projects
 <table>
 <tr>
-<td width="50%">
+<td width="30%">
 
 <img src="https://github.com/AdeemAkhtar/AWS_Multi-VPC_Architecture_with_VPC_Peering_Using_Terraform/blob/main/ScreenShots/0_Architecture.png"
              alt="AWS_Multi-VPC_Architecture_with_VPC_Peering_Using_Terraform"
@@ -79,10 +79,10 @@ Fully provisioned as code with Terraform
 
 </td>
 
-<td width="50%">
+<td width="30%">
 
 <img src="https://github.com/AdeemAkhtar/Hosting_Static_Website_On_S3_Using_Terraform/blob/main/screenshots/architecture2.png"
-             alt="AWS_Multi-VPC_Architecture_with_VPC_Peering_Using_Terraform"
+             alt="Hosting Static Website On S3 Using Terraform"
              style="width:100%; height:200px; object-fit:cover;"/>
              
 <h3 align="center">Hosting Static Website On S3 Using Terraform</h3>
@@ -93,6 +93,25 @@ Fully provisioned and managed as code with Terraform
 `AWS` `Terraform` `Route 53` `S3` `CloudFront` `IAM`
 
 <a href="https://github.com/AdeemAkhtar/AWS_Multi-VPC_Architecture_with_VPC_Peering_Using_Terraform">
+<img src="https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="30%">
+
+<img src="https://github.com/AdeemAkhtar/aws-serverless-event-driven-architecture-for-ECommerce/blob/main/Proposed_Architecture.png"
+             alt="Designing a Scalable Serverless Event-Driven Architecture on AWS for an E-Commerce Platform"
+             style="width:100%; height:200px; object-fit:cover;"/>
+             
+<h3 align="center">Designing a Scalable Serverless Event-Driven Architecture on AWS for an E-Commerce Platform</h3>
+
+AWS serverless event-driven architecture for scalable e-commerce 
+order processing using API Gateway, Lambda, SQS, DynamoDB, SNS, and CloudWatch.
+
+`AWS` `Route 53` `S3` `CloudFront` `IAM`
+
+<a href="https://github.com/AdeemAkhtar/aws-serverless-event-driven-architecture-for-ECommerce">
 <img src="https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
