@@ -25,7 +25,7 @@
 
 <br>
 
-<a href="https://github.com/AdeemAkhtar">
+<a href="https://github.com/AdeemAkhtar?tab=repositories">
   <img 
     src="https://img.shields.io/badge/GitHub-Explore%20My%20Projects-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=161B22"
     height="45"
