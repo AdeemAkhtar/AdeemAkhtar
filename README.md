@@ -62,15 +62,14 @@ I'm a Cloud & DevOps Engineer passionate about designing scalable cloud infrastr
 <tr>
 <td width="33%">
 
-<h2 align="center">AWS Multi VPC Architecture with VPC Peering Using Terraform</h2>
 <img src="https://github.com/AdeemAkhtar/AWS_Multi-VPC_Architecture_with_VPC_Peering_Using_Terraform/blob/main/ScreenShots/0_Architecture.png"
              alt="AWS_Multi-VPC_Architecture_with_VPC_Peering_Using_Terraform"
              style="width:100%; height:200px; object-fit:cover;"/>
              
-**Terraform · AWS · VPC · EC2**
+<h3 align="center">AWS Multi VPC Architecture with VPC Peering Using Terraform</h3>
 
-Production-style AWS infrastructure
-deployed using Infrastructure as Code.
+Dual private-subnet VPCs linked by peering, EC2 instances, security groups & IGWs
+Fully provisioned as code with Terraform
 
 `AWS` `Terraform` `VPC` `EC2` `VPC-Peering` `Route Tables`
 
@@ -82,19 +81,18 @@ deployed using Infrastructure as Code.
 
 <td width="33%">
 
-<h2 align="center">AWS Multi VPC Architecture with VPC Peering Using Terraform</h2>
 <img src="https://github.com/AdeemAkhtar/Hosting_Static_Website_On_S3_Using_Terraform/blob/main/screenshots/architecture2.png"
              alt="AWS_Multi-VPC_Architecture_with_VPC_Peering_Using_Terraform"
              style="width:100%; height:200px; object-fit:cover;"/>
              
-**Terraform · AWS · VPC · EC2**
+<h3 align="center">Hosting Static Website On S3 Using Terraform</h3>
 
-Production-style AWS infrastructure
-deployed using Infrastructure as Code.
+Route 53 DNS, ACM HTTPS & edge-cached content from a private S3 origin
+Fully provisioned and managed as code with Terraform
 
-`AWS` `Terraform` `VPC` `EC2` `VPC-Peering` `Route Tables`
+`AWS` `Terraform` `Route 53` `S3` `CloudFront` `IAM`
 
-<a href="https://github.com/AdeemAkhtar/Hosting_Static_Website_On_S3_Using_Terraform">
+<a href="https://github.com/AdeemAkhtar/AWS_Multi-VPC_Architecture_with_VPC_Peering_Using_Terraform">
 <img src="https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
@@ -102,12 +100,11 @@ deployed using Infrastructure as Code.
 
 <td width="33%">
 
-<h2 align="center">AWS Multi VPC Architecture with VPC Peering Using Terraform</h2>
 <img src="https://github.com/AdeemAkhtar/AWS_Multi-VPC_Architecture_with_VPC_Peering_Using_Terraform/blob/main/ScreenShots/0_Architecture.png"
              alt="AWS_Multi-VPC_Architecture_with_VPC_Peering_Using_Terraform"
              style="width:100%; height:200px; object-fit:cover;"/>
              
-**Terraform · AWS · VPC · EC2**
+<h3 align="center">AWS Multi VPC Architecture with VPC Peering Using Terraform</h3>
 
 Production-style AWS infrastructure
 deployed using Infrastructure as Code.
