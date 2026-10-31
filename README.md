@@ -60,7 +60,7 @@ I'm a Cloud & DevOps Engineer passionate about designing scalable cloud infrastr
 ## 🚀 My Featured Projects
 <table>
   <tr>
-    <td width="100%">
+    <td>
       
       <img src="https://github.com/AdeemAkhtar/AWS_Multi-VPC_Architecture_with_VPC_Peering_Using_Terraform/blob/main/ScreenShots/0_Architecture.png"
                   alt="AWS_Multi-VPC_Architecture_with_VPC_Peering_Using_Terraform"
@@ -82,7 +82,7 @@ I'm a Cloud & DevOps Engineer passionate about designing scalable cloud infrastr
   </tr>
 
   <tr>
-    <td width="100%">
+    <td>
       <img src="https://github.com/AdeemAkhtar/Hosting_Static_Website_On_S3_Using_Terraform/blob/main/screenshots/architecture2.png"
                   alt="Hosting Static Website On S3 Using Terraform"
                   style="width:100%; height:200px; object-fit:cover;"/>
@@ -103,7 +103,7 @@ I'm a Cloud & DevOps Engineer passionate about designing scalable cloud infrastr
   </tr>
 
   <tr>
-    <td width="30%">
+    <td>
 
     <img src="https://github.com/AdeemAkhtar/aws-serverless-event-driven-architecture-for-ECommerce/blob/main/Proposed_Architecture.png"
                 alt="Designing a Scalable Serverless Event-Driven Architecture on AWS for an E-Commerce Platform"
