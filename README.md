@@ -25,18 +25,18 @@
 
 <br>
 
-<a href="https://github.com/AdeemAkhtar?tab=repositories">
-  <img 
-    src="https://img.shields.io/badge/GitHub-Explore%20My%20Projects-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=161B22"
-    height="45"
-  />
+<a href="https://github.com/AdeemAkhtar">
+<img 
+src="https://img.shields.io/badge/GitHub-Explore%20My%20Projects-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=161B22"
+height="45"
+/>
 </a>
 
 <a href="https://www.linkedin.com/in/adeemakhtar/">
-  <img 
-    src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=161B22"
-    height="45"
-  />
+<img 
+src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=161B22"
+height="45"
+/>
 </a>
 
 <img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/demo/typing.gif" width="40"/>
@@ -59,107 +59,105 @@ I'm a Cloud & DevOps Engineer passionate about designing scalable cloud infrastr
 
 ## 🚀 My Featured Projects
 <table>
-  <tr>
-    <td>
-      
-      <img src="https://github.com/AdeemAkhtar/AWS_Multi-VPC_Architecture_with_VPC_Peering_Using_Terraform/blob/main/ScreenShots/0_Architecture.png"
-                  alt="AWS_Multi-VPC_Architecture_with_VPC_Peering_Using_Terraform"
-                  style="width:100%; height:200px; object-fit:cover;"/>
-                  
-      <h3 align="center">AWS Multi VPC Architecture with VPC Peering Using Terraform</h3>
+<tr>
+<td width="30%">
 
-      <p>
-        Dual private-subnet VPCs linked by peering, EC2 instances, security groups & IGWs
-        Fully provisioned as code with Terraform
-        
-        `AWS` `Terraform` `VPC` `EC2` `VPC-Peering` `Route Tables`
-      </p>
-      
-      <a href="https://github.com/AdeemAkhtar/AWS_Multi-VPC_Architecture_with_VPC_Peering_Using_Terraform">
-        <img src="https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
+<img src="https://github.com/AdeemAkhtar/AWS_Multi-VPC_Architecture_with_VPC_Peering_Using_Terraform/blob/main/ScreenShots/0_Architecture.png"
+alt="AWS_Multi-VPC_Architecture_with_VPC_Peering_Using_Terraform"
+style="width:100%; height:200px; object-fit:cover;"/>
 
-  <tr>
-    <td>
-      <img src="https://github.com/AdeemAkhtar/Hosting_Static_Website_On_S3_Using_Terraform/blob/main/screenshots/architecture2.png"
-                  alt="Hosting Static Website On S3 Using Terraform"
-                  style="width:100%; height:200px; object-fit:cover;"/>
-                  
-      <h3 align="center">Hosting Static Website On S3 Using Terraform</h3>
-    
-      <p>
-        Route 53 DNS, ACM HTTPS & edge-cached content from a private S3 origin
-        Fully provisioned and managed as code with Terraform
-        
-        `AWS` `Terraform` `Route 53` `S3` `CloudFront` `IAM`
-      </p>
-      
-      <a href="https://github.com/AdeemAkhtar/AWS_Multi-VPC_Architecture_with_VPC_Peering_Using_Terraform">
-        <img src="https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
+<h3 align="center">AWS Multi VPC Architecture with VPC Peering Using Terraform</h3>
 
-  <tr>
-    <td>
+Dual private-subnet VPCs linked by peering, EC2 instances, security groups & IGWs
+Fully provisioned as code with Terraform
 
-    <img src="https://github.com/AdeemAkhtar/aws-serverless-event-driven-architecture-for-ECommerce/blob/main/Proposed_Architecture.png"
-                alt="Designing a Scalable Serverless Event-Driven Architecture on AWS for an E-Commerce Platform"
-                style="width:100%; height:200px; object-fit:cover;"/>
-                
-    <h3 align="center">Designing a Scalable Serverless Event-Driven Architecture on AWS for an E-Commerce Platform</h3>
+`AWS` `Terraform` `VPC` `EC2` `VPC-Peering` `Route Tables`
 
-    AWS serverless event-driven architecture for scalable e-commerce order processing.
+<a href="https://github.com/AdeemAkhtar/AWS_Multi-VPC_Architecture_with_VPC_Peering_Using_Terraform">
+<img src="https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
 
-    `AWS` `API Gateway` `Lambda` `DynamoDB` `DynamoDB Stream` `Amazon SNS` `Amazon SQS` `CloudWatch`
+</td>
 
-    <a href="https://github.com/AdeemAkhtar/aws-serverless-event-driven-architecture-for-ECommerce">
-    <img src="https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white"/>
-    </a>
+<td width="30%">
 
-    </td>
-  </tr>
+<img src="https://github.com/AdeemAkhtar/Hosting_Static_Website_On_S3_Using_Terraform/blob/main/screenshots/architecture2.png"
+alt="Hosting Static Website On S3 Using Terraform"
+style="width:100%; height:200px; object-fit:cover;"/>
 
+<h3 align="center">Hosting Static Website On S3 Using Terraform</h3>
+
+Route 53 DNS, ACM HTTPS & edge-cached content from a private S3 origin
+Fully provisioned and managed as code with Terraform
+
+`AWS` `Terraform` `Route 53` `S3` `CloudFront` `IAM`
+
+<a href="https://github.com/AdeemAkhtar/AWS_Multi-VPC_Architecture_with_VPC_Peering_Using_Terraform">
+<img src="https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="30%">
+
+<img src="https://github.com/AdeemAkhtar/aws-serverless-event-driven-architecture-for-ECommerce/blob/main/Proposed_Architecture.png"
+alt="Designing a Scalable Serverless Event-Driven Architecture on AWS for an E-Commerce Platform"
+style="width:100%; height:200px; object-fit:cover;"/>
+
+<h3 align="center">Designing a Scalable Serverless Event-Driven Architecture on AWS for an E-Commerce Platform</h3>
+
+AWS serverless event-driven architecture for scalable e-commerce order processing.
+
+`AWS` `API Gateway` `Lambda` `DynamoDB` `DynamoDB Stream` `Amazon SNS` `Amazon SQS` `CloudWatch`
+
+<a href="https://github.com/AdeemAkhtar/aws-serverless-event-driven-architecture-for-ECommerce">
+<img src="https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+
+</tr>
 </table>
 
 ## 🛠️ Technology Stack
 ### ☁️ Cloud and 🔄 DevOps
 <p> 
-        <img src="https://skillicons.dev/icons?i=aws" /> 
-        <img src="https://skillicons.dev/icons?i=terraform" /> 
-        <img src="https://skillicons.dev/icons?i=git" /> 
-        <img src="https://skillicons.dev/icons?i=github" /> 
-        <img src="https://skillicons.dev/icons?i=githubactions" /> 
-        
+   <img src="https://skillicons.dev/icons?i=aws" /> 
+   <img src="https://skillicons.dev/icons?i=terraform" /> 
+   <img src="https://skillicons.dev/icons?i=git" /> 
+   <img src="https://skillicons.dev/icons?i=github" /> 
+   <img src="https://skillicons.dev/icons?i=githubactions" /> 
+   
 </p>
 
 ### 🐳 Containers & Orchestration
 <p>
-        <img src="https://skillicons.dev/icons?i=docker" /> 
-        <img src="https://skillicons.dev/icons?i=kubernetes" /> 
+   <img src="https://skillicons.dev/icons?i=docker" /> 
+   <img src="https://skillicons.dev/icons?i=kubernetes" /> 
 </p>
 
 ### 🐧 Operating Systems & Scripting
 <p>
-        <img src="https://skillicons.dev/icons?i=linux" /> 
-        <img src="https://skillicons.dev/icons?i=windows" /> 
-        <img src="https://skillicons.dev/icons?i=bash" /> 
-        <img src="https://skillicons.dev/icons?i=powershell" /> 
-        <img src="https://skillicons.dev/icons?i=py" /> 
+   <img src="https://skillicons.dev/icons?i=linux" /> 
+   <img src="https://skillicons.dev/icons?i=windows" /> 
+   <img src="https://skillicons.dev/icons?i=bash" /> 
+   <img src="https://skillicons.dev/icons?i=powershell" /> 
+   <img src="https://skillicons.dev/icons?i=py" /> 
 </p>
 
 ### 🗄️ Databases & Application Technologies
 <p>
-        <img src="https://skillicons.dev/icons?i=postgres" /> 
-        <img src="https://skillicons.dev/icons?i=mysql" /> 
-        <img src="https://skillicons.dev/icons?i=mongodb" /> 
-        <img src="https://skillicons.dev/icons?i=py" /> 
-        <img src="https://skillicons.dev/icons?i=django" /> 
-        <img src="https://skillicons.dev/icons?i=flask" />
-        <img src="https://skillicons.dev/icons?i=java" /> 
-        <img src="https://skillicons.dev/icons?i=js" /> 
-        <img src="https://skillicons.dev/icons?i=react" />
-        
+   <img src="https://skillicons.dev/icons?i=postgres" /> 
+   <img src="https://skillicons.dev/icons?i=mysql" /> 
+   <img src="https://skillicons.dev/icons?i=mongodb" /> 
+   <img src="https://skillicons.dev/icons?i=py" /> 
+   <img src="https://skillicons.dev/icons?i=django" /> 
+   <img src="https://skillicons.dev/icons?i=flask" />
+   <img src="https://skillicons.dev/icons?i=java" /> 
+   <img src="https://skillicons.dev/icons?i=js" /> 
+   <img src="https://skillicons.dev/icons?i=react" />
+   
 </p>
+
+
