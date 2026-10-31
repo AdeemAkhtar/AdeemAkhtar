@@ -73,18 +73,31 @@ Designed and deployed a production-ready static website hosting infrastructure o
 
 Building a containerised full-stack application and deploying it to AWS using modern DevOps practices.
 
-**Planned technologies:**
-- Docker – Application containerisation
-- AWS – Cloud infrastructure
-- Terraform – Infrastructure provisioning
-- GitHub Actions – CI/CD automation
-- Linux & Bash – Deployment automation
-
-**Learning objectives:**
-- Build and containerise a full-stack application.
-- Provision AWS infrastructure using Terraform.
-- Implement automated testing and deployment pipelines.
-- Practise secure cloud authentication and configuration management.
+<table>
+  <tr>
+    <th align="left">Planned technologies</th>
+    <th align="left">Learning objectives</th>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>Docker – Application containerisation</li>
+        <li>AWS – Cloud infrastructure</li>
+        <li>Terraform – Infrastructure provisioning</li>
+        <li>GitHub Actions – CI/CD automation</li>
+        <li>Linux & Bash – Deployment automation</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Build and containerise a full-stack application.</li>
+        <li>Provision AWS infrastructure using Terraform.</li>
+        <li>Implement automated testing and deployment pipelines.</li>
+        <li>Practise secure cloud authentication and configuration management.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
