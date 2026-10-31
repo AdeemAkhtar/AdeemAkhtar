@@ -50,6 +50,8 @@ Designed and deployed a production-ready static website hosting infrastructure o
 - Automated website deployment and synchronisation.
 <br>
 <hr>
+<br>
+
 ### 2. Containerised To-Do Application on AWS
 
 **Status:** 🚧 In Progress
@@ -109,7 +111,13 @@ My academic and professional experience has strengthened my problem-solving, com
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdeemAkhtar&show_icons=true&theme=github_dark&hide_border=true)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=AdeemAkhtar&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
+    alt="Adeem's GitHub Stats"
+  />
+</p>
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdeemAkhtar&layout=compact&theme=github_dark&hide_border=true)
 
