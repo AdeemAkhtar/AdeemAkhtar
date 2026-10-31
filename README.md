@@ -2,42 +2,15 @@
 
 ### Cloud & Infrastructure Engineer | AWS | Terraform | DevOps
 
-I'm a Computer Science graduate transitioning into Cloud and DevOps Engineering, with a background in software development, university teaching, and technical problem-solving.
+I'm a Computer Science professional transitioning into Cloud and DevOps Engineering, with a background in software development, university teaching, and technical problem-solving.
 
 I enjoy designing, automating, and deploying cloud infrastructure using AWS, Terraform, Docker, and CI/CD pipelines. My focus is on building secure, scalable, maintainable, and cost-efficient cloud solutions through hands-on projects.
 
-- 🌍 Based in York, United Kingdom
 - ☁️ Currently developing my skills in AWS Cloud & DevOps Engineering
 - 🏗️ Building Infrastructure as Code solutions using Terraform
 - 🚀 Exploring containerisation, automation, and CI/CD
 - 💻 Portfolio: [adeemakhtar.com](https://www.adeemakhtar.com)
-- 📫 Connect with me on [LinkedIn](YOUR_LINKEDIN_URL)
-
----
-
-## 🛠️ Tech Stack & Tools
-
-### Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Route 53](https://img.shields.io/badge/Route_53-232F3E?style=for-the-badge&logo=amazonroute53&logoColor=white)
-![CloudFront](https://img.shields.io/badge/CloudFront-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-
-### DevOps & Automation
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### Programming & Development
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/adeemakhtar/)
 
 ---
 
@@ -45,7 +18,17 @@ I enjoy designing, automating, and deploying cloud infrastructure using AWS, Ter
 
 ### 1. AWS Production Static Website Infrastructure
 
-**Repository:** [terraform-s3-website](https://github.com/AdeemAkhtar/terraform-s3-website)
+**Repository:** [prod-terraform-static-web-hosting-on-S3](https://github.com/AdeemAkhtar/prod-terraform-static-web-hosting-on-S3)
+
+<p align="center">
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7522230875732766720/" target="_blank">
+    <img
+      src="assets/static-web-to-s3.png"
+      alt="https://github.com/AdeemAkhtar/prod-terraform-static-web-hosting-on-S3"
+      width="700"
+    />
+  </a>
+</p>
 
 Designed and deployed a production-ready static website hosting infrastructure on AWS using Terraform and GitHub Actions.
 
@@ -87,6 +70,32 @@ Building a containerised full-stack application and deploying it to AWS using mo
 
 ---
 
+## 🛠️ Tech Stack & Tools
+
+### Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Route 53](https://img.shields.io/badge/Route_53-232F3E?style=for-the-badge&logo=amazonroute53&logoColor=white)
+![CloudFront](https://img.shields.io/badge/CloudFront-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+
+### DevOps & Automation
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Programming & Development
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
 ## 🎓 Background
 
 - **MS Computer Science** – Research focused on Deep Learning and Alzheimer's Disease progression prediction.
@@ -110,7 +119,7 @@ My academic and professional experience has strengthened my problem-solving, com
 I'm always interested in connecting with Cloud Engineers, DevOps professionals, and technology enthusiasts.
 
 - 🌐 **Portfolio:** [adeemakhtar.com](https://www.adeemakhtar.com)
-- 💼 **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL)
+- 💼 **LinkedIn:** [Connect with me]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/adeemakhtar/))
 - 🐙 **GitHub:** [@AdeemAkhtar](https://github.com/AdeemAkhtar)
 
 **Building, learning, and automating — one project at a time.** 🚀
