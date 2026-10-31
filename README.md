@@ -1,167 +1,116 @@
+# Hi, I'm Adeem Akhtar 👋
 
+### Cloud & Infrastructure Engineer | AWS | Terraform | DevOps
 
+I'm a Computer Science graduate transitioning into Cloud and DevOps Engineering, with a background in software development, university teaching, and technical problem-solving.
 
-<div align="center">
+I enjoy designing, automating, and deploying cloud infrastructure using AWS, Terraform, Docker, and CI/CD pipelines. My focus is on building secure, scalable, maintainable, and cost-efficient cloud solutions through hands-on projects.
 
-# 👋 Hello! I am Adeem
-
-### `Cloud & DevOps Engineer`
-
-**Building reliable infrastructure. Automating everything. Learning continuously.**
-
-<br>
-
-<img src="https://img.shields.io/badge/AWS-Cloud-161B22?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
-<img src="https://img.shields.io/badge/Terraform-IaC-161B22?style=for-the-badge&logo=terraform&logoColor=844FBA"/>
-<img src="https://img.shields.io/badge/Docker-Containers-161B22?style=for-the-badge&logo=docker&logoColor=2496ED"/>
-<img src="https://img.shields.io/badge/Linux-Systems-161B22?style=for-the-badge&logo=linux&logoColor=FCC624"/>
-<img src="https://img.shields.io/badge/CI%2FCD-Automation-161B22?style=for-the-badge&logo=githubactions&logoColor=2088FF"/>
-
-<br>
-
-<div>
-
-### 🌐 Connect With Me
-
-<br>
-
-<a href="https://github.com/AdeemAkhtar">
-<img 
-src="https://img.shields.io/badge/GitHub-Explore%20My%20Projects-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=161B22"
-height="45"
-/>
-</a>
-
-<a href="https://www.linkedin.com/in/adeemakhtar/">
-<img 
-src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=161B22"
-height="45"
-/>
-</a>
-
-<img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/demo/typing.gif" width="40"/>
-
-<br>
-
-<sub>
-💬 Open to Cloud & DevOps discussions · ☁️ Cloud Architecture · 🚀 Infrastructure Automation
-</sub>
-
-</div>
-
-</div>
+- 🌍 Based in York, United Kingdom
+- ☁️ Currently developing my skills in AWS Cloud & DevOps Engineering
+- 🏗️ Building Infrastructure as Code solutions using Terraform
+- 🚀 Exploring containerisation, automation, and CI/CD
+- 💻 Portfolio: [adeemakhtar.com](https://www.adeemakhtar.com)
+- 📫 Connect with me on [LinkedIn](YOUR_LINKEDIN_URL)
 
 ---
 
-## 🧑‍💻 About Me
+## 🛠️ Tech Stack & Tools
 
-I'm a Cloud & DevOps Engineer passionate about designing scalable cloud infrastructure, automating deployments, and turning complex infrastructure into simple, repeatable systems. I'm particularly interested in cloud architecture, system design, network architecture, infrastructure automation, scalability, reliability, and cloud-native technologies, while continuously expanding my knowledge of modern engineering practices.
+### Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Route 53](https://img.shields.io/badge/Route_53-232F3E?style=for-the-badge&logo=amazonroute53&logoColor=white)
+![CloudFront](https://img.shields.io/badge/CloudFront-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 
-## 🚀 My Featured Projects
-<table>
-<tr>
-   <td width=auto>
+### DevOps & Automation
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-   <img src="https://github.com/AdeemAkhtar/AWS_Multi-VPC_Architecture_with_VPC_Peering_Using_Terraform/blob/main/ScreenShots/0_Architecture.png"
-   alt="AWS_Multi-VPC_Architecture_with_VPC_Peering_Using_Terraform"
-   style="width:100%; height:200px; object-fit:cover;"/>
+### Programming & Development
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-   <h3 align="center">AWS Multi VPC Architecture with VPC Peering Using Terraform</h3>
+---
 
-   Dual private-subnet VPCs linked by peering, EC2 instances, security groups & IGWs
-   Fully provisioned as code with Terraform
+## 🚀 Featured Projects
 
-   `AWS` `Terraform` `VPC` `EC2` `VPC-Peering` `Route Tables`
+### 1. AWS Production Static Website Infrastructure
 
-   <a href="https://github.com/AdeemAkhtar/AWS_Multi-VPC_Architecture_with_VPC_Peering_Using_Terraform">
-   <img src="https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white"/>
-   </a>
+**Repository:** [terraform-s3-website](https://github.com/AdeemAkhtar/terraform-s3-website)
 
-   </td>
-</tr>
+Designed and deployed a production-ready static website hosting infrastructure on AWS using Terraform and GitHub Actions.
 
+**Technologies:**
+- AWS S3 – Private static website storage
+- Amazon CloudFront – Global content delivery
+- AWS Certificate Manager – SSL/TLS certificates
+- Amazon Route 53 – DNS management
+- Terraform – Infrastructure as Code
+- GitHub Actions – Automated CI/CD
+- GitHub OIDC – Secure AWS authentication
 
-<tr>
-   <td width=auto>
+**Key implementations:**
+- Modular and reusable Terraform architecture.
+- Separate development and production environments.
+- Secure S3 origin access using CloudFront OAC.
+- Automated infrastructure deployment through GitHub Actions.
+- HTTPS-enabled custom domain with CloudFront.
+- Automated website deployment and synchronisation.
 
-   <img src="https://github.com/AdeemAkhtar/Hosting_Static_Website_On_S3_Using_Terraform/blob/main/screenshots/architecture2.png"
-   alt="Hosting Static Website On S3 Using Terraform"
-   style="width:100%; height:200px; object-fit:cover;"/>
+### 2. Containerised To-Do Application on AWS
 
-   <h3 align="center">Hosting Static Website On S3 Using Terraform</h3>
+**Status:** 🚧 In Progress
 
-   Route 53 DNS, ACM HTTPS & edge-cached content from a private S3 origin
-   Fully provisioned and managed as code with Terraform
+Building a containerised full-stack application and deploying it to AWS using modern DevOps practices.
 
-   `AWS` `Terraform` `Route 53` `S3` `CloudFront` `IAM`
+**Planned technologies:**
+- Docker – Application containerisation
+- AWS – Cloud infrastructure
+- Terraform – Infrastructure provisioning
+- GitHub Actions – CI/CD automation
+- Linux & Bash – Deployment automation
 
-   <a href="https://github.com/AdeemAkhtar/AWS_Multi-VPC_Architecture_with_VPC_Peering_Using_Terraform">
-   <img src="https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white"/>
-   </a>
+**Learning objectives:**
+- Build and containerise a full-stack application.
+- Provision AWS infrastructure using Terraform.
+- Implement automated testing and deployment pipelines.
+- Practise secure cloud authentication and configuration management.
 
-   </td>
-</tr>
+---
 
+## 🎓 Background
 
-<tr>
-   <td width=auto>
+- **MS Computer Science** – Research focused on Deep Learning and Alzheimer's Disease progression prediction.
+- **BS (Hons) Computer Science** – Software development, programming, databases, and computer science fundamentals.
+- **4+ years of teaching and technical experience** in higher education.
 
-   <img src="https://github.com/AdeemAkhtar/aws-serverless-event-driven-architecture-for-ECommerce/blob/main/Proposed_Architecture.png"
-   alt="Designing a Scalable Serverless Event-Driven Architecture on AWS for an E-Commerce Platform"
-   style="width:100%; height:200px; object-fit:cover;"/>
+My academic and professional experience has strengthened my problem-solving, communication, technical documentation, and mentoring skills.
 
-   <h3 align="center">Designing a Scalable Serverless Event-Driven Architecture on AWS for an E-Commerce Platform</h3>
+---
 
-   AWS serverless event-driven architecture for scalable e-commerce order processing.
+## 📊 GitHub Statistics
 
-   `AWS` `API Gateway` `Lambda` `DynamoDB` `DynamoDB Stream` `Amazon SNS` `Amazon SQS` `CloudWatch`
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdeemAkhtar&show_icons=true&theme=github_dark&hide_border=true)
 
-   <a href="https://github.com/AdeemAkhtar/aws-serverless-event-driven-architecture-for-ECommerce">
-   <img src="https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white"/>
-   </a>
-   </td>
-</tr>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdeemAkhtar&layout=compact&theme=github_dark&hide_border=true)
 
-</table>
+---
 
-## 🛠️ Technology Stack
-### ☁️ Cloud and 🔄 DevOps
-<p> 
-   <img src="https://skillicons.dev/icons?i=aws" /> 
-   <img src="https://skillicons.dev/icons?i=terraform" /> 
-   <img src="https://skillicons.dev/icons?i=git" /> 
-   <img src="https://skillicons.dev/icons?i=github" /> 
-   <img src="https://skillicons.dev/icons?i=githubactions" /> 
-   
-</p>
+## 🤝 Let's Connect
 
-### 🐳 Containers & Orchestration
-<p>
-   <img src="https://skillicons.dev/icons?i=docker" /> 
-   <img src="https://skillicons.dev/icons?i=kubernetes" /> 
-</p>
+I'm always interested in connecting with Cloud Engineers, DevOps professionals, and technology enthusiasts.
 
-### 🐧 Operating Systems & Scripting
-<p>
-   <img src="https://skillicons.dev/icons?i=linux" /> 
-   <img src="https://skillicons.dev/icons?i=windows" /> 
-   <img src="https://skillicons.dev/icons?i=bash" /> 
-   <img src="https://skillicons.dev/icons?i=powershell" /> 
-   <img src="https://skillicons.dev/icons?i=py" /> 
-</p>
+- 🌐 **Portfolio:** [adeemakhtar.com](https://www.adeemakhtar.com)
+- 💼 **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL)
+- 🐙 **GitHub:** [@AdeemAkhtar](https://github.com/AdeemAkhtar)
 
-### 🗄️ Databases & Application Technologies
-<p>
-   <img src="https://skillicons.dev/icons?i=postgres" /> 
-   <img src="https://skillicons.dev/icons?i=mysql" /> 
-   <img src="https://skillicons.dev/icons?i=mongodb" /> 
-   <img src="https://skillicons.dev/icons?i=py" /> 
-   <img src="https://skillicons.dev/icons?i=django" /> 
-   <img src="https://skillicons.dev/icons?i=flask" />
-   <img src="https://skillicons.dev/icons?i=java" /> 
-   <img src="https://skillicons.dev/icons?i=js" /> 
-   <img src="https://skillicons.dev/icons?i=react" />
-   
-</p>
-
-
+**Building, learning, and automating — one project at a time.** 🚀
