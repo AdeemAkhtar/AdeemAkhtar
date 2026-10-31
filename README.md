@@ -23,7 +23,7 @@ I enjoy designing, automating, and deploying cloud infrastructure using AWS, Ter
 <p align="center">
   <a href="https://www.linkedin.com/feed/update/urn:li:activity:7522230875732766720/" target="_blank">
     <img
-      src="static-web-to-s3.png"
+      src="assets/static-web-to-s3.png"
       alt="https://github.com/AdeemAkhtar/prod-terraform-static-web-hosting-on-S3"
       width="700"
     />
@@ -31,6 +31,38 @@ I enjoy designing, automating, and deploying cloud infrastructure using AWS, Ter
 </p>
 
 Designed and deployed a production-ready static website hosting infrastructure on AWS using Terraform and GitHub Actions.
+
+<table>
+  <tr>
+    <th align="left">Technologies</th>
+    <th align="left">Key Implementations</th>
+  </tr>
+
+  <tr>
+    <td valign="top">
+      <ul>
+        <li>AWS S3 – Private static website storage</li>
+        <li>Amazon CloudFront – Global content delivery</li>
+        <li>AWS Certificate Manager – SSL/TLS certificates</li>
+        <li>Amazon Route 53 – DNS management</li>
+        <li>Terraform – Infrastructure as Code</li>
+        <li>GitHub Actions – Automated CI/CD</li>
+        <li>GitHub OIDC – Secure AWS authentication</li>
+      </ul>
+    </td>
+
+    <td valign="top">
+      <ul>
+        <li>Modular and reusable Terraform architecture</li>
+        <li>Separate development and production environments</li>
+        <li>Secure S3 origin access using CloudFront OAC</li>
+        <li>Automated infrastructure deployment through GitHub Actions</li>
+        <li>HTTPS-enabled custom domain with CloudFront</li>
+        <li>Automated website deployment and synchronisation</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 **Technologies:**
 - AWS S3 – Private static website storage
@@ -48,9 +80,6 @@ Designed and deployed a production-ready static website hosting infrastructure o
 - Automated infrastructure deployment through GitHub Actions.
 - HTTPS-enabled custom domain with CloudFront.
 - Automated website deployment and synchronisation.
-<br>
-<hr>
-<br>
 
 ### 2. Containerised To-Do Application on AWS
 
@@ -111,13 +140,7 @@ My academic and professional experience has strengthened my problem-solving, com
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=AdeemAkhtar&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
-    alt="Adeem's GitHub Stats"
-  />
-</p>
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdeemAkhtar&show_icons=true&theme=github_dark&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdeemAkhtar&layout=compact&theme=github_dark&hide_border=true)
 
@@ -128,7 +151,7 @@ My academic and professional experience has strengthened my problem-solving, com
 I'm always interested in connecting with Cloud Engineers, DevOps professionals, and technology enthusiasts.
 
 - 🌐 **Portfolio:** [adeemakhtar.com](https://www.adeemakhtar.com)
-- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/adeemakhtar/)
+- 💼 **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL)
 - 🐙 **GitHub:** [@AdeemAkhtar](https://github.com/AdeemAkhtar)
 
 **Building, learning, and automating — one project at a time.** 🚀
