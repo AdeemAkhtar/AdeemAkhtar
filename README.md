@@ -39,7 +39,7 @@ Designed and deployed a production-ready static website hosting infrastructure o
   </tr>
 
   <tr>
-    <td valign="top">
+    <td>
       <ul>
         <li>AWS S3 – Private static website storage</li>
         <li>Amazon CloudFront – Global content delivery</li>
@@ -51,7 +51,7 @@ Designed and deployed a production-ready static website hosting infrastructure o
       </ul>
     </td>
 
-    <td valign="top">
+    <td>
       <ul>
         <li>Modular and reusable Terraform architecture</li>
         <li>Separate development and production environments</li>
