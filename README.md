@@ -137,20 +137,6 @@ My academic and professional experience has strengthened my problem-solving, com
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=AdeemAkhtar&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
-    alt="Adeem's GitHub Stats"
-  />
-</p>
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdeemAkhtar&layout=compact&theme=github_dark&hide_border=true)
-
----
-
 ## 🤝 Let's Connect
 
 I'm always interested in connecting with Cloud Engineers, DevOps professionals, and technology enthusiasts.
