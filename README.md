@@ -23,7 +23,7 @@ I enjoy designing, automating, and deploying cloud infrastructure using AWS, Ter
 <p align="center">
   <a href="https://www.linkedin.com/feed/update/urn:li:activity:7522230875732766720/" target="_blank">
     <img
-      src="assets/static-web-to-s3.png"
+      src="static-web-to-s3.png"
       alt="https://github.com/AdeemAkhtar/prod-terraform-static-web-hosting-on-S3"
       width="700"
     />
