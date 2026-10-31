@@ -48,7 +48,8 @@ Designed and deployed a production-ready static website hosting infrastructure o
 - Automated infrastructure deployment through GitHub Actions.
 - HTTPS-enabled custom domain with CloudFront.
 - Automated website deployment and synchronisation.
-
+<br>
+<hr>
 ### 2. Containerised To-Do Application on AWS
 
 **Status:** 🚧 In Progress
@@ -119,7 +120,7 @@ My academic and professional experience has strengthened my problem-solving, com
 I'm always interested in connecting with Cloud Engineers, DevOps professionals, and technology enthusiasts.
 
 - 🌐 **Portfolio:** [adeemakhtar.com](https://www.adeemakhtar.com)
-- 💼 **LinkedIn:** [Connect with me]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/adeemakhtar/))
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/adeemakhtar/)
 - 🐙 **GitHub:** [@AdeemAkhtar](https://github.com/AdeemAkhtar)
 
 **Building, learning, and automating — one project at a time.** 🚀
