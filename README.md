@@ -50,7 +50,6 @@ Designed and deployed a production-ready static website hosting infrastructure o
         <li>GitHub OIDC – Secure AWS authentication</li>
       </ul>
     </td>
-
     <td>
       <ul>
         <li>Modular and reusable Terraform architecture</li>
